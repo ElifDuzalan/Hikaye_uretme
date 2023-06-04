@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\bin\Debug\hikayeüretme.exe.config
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\bin\Debug\hikayeüretme.exe
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\bin\Debug\hikayeüretme.pdb
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\obj\Debug\hikayeüretme.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\obj\Debug\hikayeüretme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\obj\Debug\hikayeüretme.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\obj\Debug\hikayeüretme.exe
+C:\Users\Victus\source\repos\hikayeüretme\hikayeüretme\obj\Debug\hikayeüretme.pdb
